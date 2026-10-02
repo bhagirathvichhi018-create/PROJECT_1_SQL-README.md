@@ -2,7 +2,6 @@
 -- DATA DIGGER - E-COMMERCE STORE MYSQL PROJECT
 -- ============================================================
 
-DROP DATABASE IF EXISTS data_digger;
 CREATE DATABASE data_digger;
 USE data_digger;
 
